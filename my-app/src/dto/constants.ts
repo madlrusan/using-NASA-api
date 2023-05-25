@@ -1,0 +1,1 @@
+export const ROOT_URL = "https://images-api.nasa.gov";
